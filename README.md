@@ -6,7 +6,7 @@
 [![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https:///)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/design_gm_1/)
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=DESIGNRGM_icons=true&theme=dracula&count_private=true)
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=DESIGNRGM&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 
