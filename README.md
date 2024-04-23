@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/GuilhermeDev/"><i>GuilhermeDev</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web na <a href="#i>TriunfoCenter</i></a> e compartilho meu aprendizado no meu canal no <a href="https:"#"><i>YouTube</i></a><span> 👉🏽️</span>
+  <p align="center">Estudo Desenvolvimento Web na <a href="#i>TriunfoCenter</i></a> e compartilho meu aprendizado no meu canal no <a href="https:"https://www.youtube.com/@TechG.M"><i>YouTube</i></a><span> 👉🏽️</span>
   <a align="rigth"  href="#1" target="_blank">
     <img width="10%" align="center" valign="middle" src="# " target="_blank" />
   </a><br>
